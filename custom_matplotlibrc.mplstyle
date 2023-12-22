@@ -1,0 +1,31 @@
+# custom_matplotlibrc
+figure.figsize: 15, 6
+axes.titlesize: 18
+axes.labelsize: 14
+lines.linewidth: 2
+axes.grid: True
+grid.alpha: 0.5
+grid.linestyle: '--'
+grid.linewidth: 0.5
+xtick.labelsize: 12
+ytick.labelsize: 12
+legend.frameon: True
+legend.framealpha: 0.8
+legend.fancybox: True
+legend.edgecolor: '0.8'
+
+# Add the following lines to remove spines
+axes.spines.top: False
+axes.spines.right: False
+axes.spines.bottom: True
+axes.spines.left: False
+
+
+# custom_style.mplstyle
+
+axes.facecolor: #FAFAD2
+axes.labelcolor: #FAFAD2
+legend.fontsize: 10
+font.size: 15
+font.family: Comic Sans Ms
+
